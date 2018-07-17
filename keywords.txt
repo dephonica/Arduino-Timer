@@ -6,19 +6,19 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-CLongTimer                     KEYWORD1
+CLongTimer	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-start                          KEYWORD2
-stop                           KEYWORD2
-tick                           KEYWORD2
-set                            KEYWORD2
-elapsed                        KEYWORD2
-enabled                        KEYWORD2
-event                          KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+tick	KEYWORD2
+set	KEYWORD2
+elapsed	KEYWORD2
+enabled	KEYWORD2
+event	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
